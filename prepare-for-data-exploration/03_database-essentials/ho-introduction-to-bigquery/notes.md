@@ -15,28 +15,28 @@ This dataset includes millions of London bicycle rental records.
 
 ## 📁 Files in This Folder  
 ### **Step Queries**
-- `[step-05_basic-select.sql]`(./step-05_basic-select.sql)  
+- [step-05_basic-select.sql](./step-05_basic-select.sql)  
   *Basic SELECT using `end_station_name`.*
 
-- `[step-06_duration-filter.sql]`(./step-06_duration-filter.sql)   
+- [step-06_duration-filter.sql](./step-06_duration-filter.sql)   
   *Filtering trips lasting ≥ 20 minutes (duration ≥ 1200 seconds).*
 
 ### **Challenge Queries**
-- `[challenge-01_find-station.sql]`(./challenge-01_find-station.sql)  
+- [challenge-01_find-station.sql](./challenge-01_find-station.sql)  
 - Find the station name where `start_station_id = 111`.  
 - **Answer:** Park Lane, Hyde Park
 
-- `[challenge-02_bike-start-details.sql]`(./challenge-02_bike-start-details.sql)
+- [challenge-02_bike-start-details.sql](./challenge-02_bike-start-details.sql)
 - Return all records associated with `bike_id = 1710`.
 - **Answer:** Multiple rows — all start details for `bike_id = 1710`.   
 
 
-- `[challenge-03_find-bike-model.sql]`(./challenge-03_find-bike-model.sql) 
+- [challenge-03_find-bike-model.sql](./challenge-03_find-bike-model.sql) 
 - Find the bike model of `bike_id = 58782`.  
 - **Answer:** *Classic*.
 
 ### **Reflection Query**
-- `[reflection-01_find-end-station.sql]`(./reflection-01_find-end-station.sql)  
+- [reflection-01_find-end-station.sql](./reflection-01_find-end-station.sql)  
 - Find the end station for rental ID `57635395`.  
 - **Answer:** East Village, Queen Elizabeth Olympic Park
 
