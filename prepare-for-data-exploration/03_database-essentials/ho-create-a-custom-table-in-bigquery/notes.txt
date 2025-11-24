@@ -1,0 +1,16 @@
+1.
+Question 1
+Reflection
+After running the query on your new table, what was the third-most popular baby name for boys in 2014? Mason - 17206
+Mason (To find that Mason was the third most popular baby name for boys in 2014, you queried your custom table and checked the results. Going forward, you’ll be able to upload your own data sources into BigQuery for future analysis projects. This will allow you to practice writing SQL queries for more data sources, which will be a key skill as a data analyst.)
+William
+Jacob
+Noah
+
+Year  Male  Female
+2014  Noah(19316)  Emma (20941)
+2015  Noah(19646)  Emma(20463)
+2016  Noah(19144)  Emma(19517)
+2017  Liam(18821)  Emma(19830)
+2018  Liam(19915)  Emma(18757)
+2019  Liam(20502)  Olivia(18451)
