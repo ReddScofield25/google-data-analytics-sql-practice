@@ -12,7 +12,7 @@ The goal was to import a dataset from local files, create a custom table, and ru
 **Source:** U.S. Social Security Administration – Baby Names Dataset  
 **BigQuery Table Created:**  
 ```
-your-project-id.babynames.names_2014
+third-booth-438505-p2.babynames.names_2014
 ```
 
 The original dataset includes yearly counts of baby names by gender.  
